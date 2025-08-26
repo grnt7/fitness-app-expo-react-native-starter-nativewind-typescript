@@ -15,6 +15,9 @@
       ]
     ],
     "name": "fit-app",
-    "slug": "fit-app"
+    "slug": "fit-app",
+    "android": {
+      "package": "com.papaddog.fitapp"
+    }
   }
 }

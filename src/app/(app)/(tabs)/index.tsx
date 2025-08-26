@@ -21,7 +21,7 @@ function Content() {
               role="heading"
               className="text-3xl text-center native:text-5xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl"
             >
-              Expo + Tailwind (NativeWind) Template
+              Expo + Tailwind (NativeWind) Template 
             </Text>
 
             <Text className="mx-auto max-w-[700px] text-lg text-center md:text-xl">
@@ -30,7 +30,7 @@ function Content() {
             </Text>
             <Link href="https://www.youtube.com/@sonnysangha" target="_blank">
               <Text className="text-lg text-center text-blue-500 hover:text-blue-700 underline md:text-xl dark:text-blue-400 dark:hover:text-blue-300">
-                https://www.youtube.com/@sonnysangha
+                {/* https://www.youtube.com/@sonnysangha */}
               </Text>
             </Link>
 
