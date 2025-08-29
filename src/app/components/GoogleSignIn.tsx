@@ -5,6 +5,7 @@ import * as WebBrowser from 'expo-web-browser'
 import * as AuthSession from 'expo-auth-session'
 import { useSSO } from '@clerk/clerk-expo'
 import { View, Button } from 'react-native'
+import { router } from 'expo-router'
 
 export const useWarmUpBrowser = () => {
   useEffect(() => {
